@@ -1,2 +1,2 @@
-# pratica1-em-dupla
+# Prática em dupla
 MMC MMD
